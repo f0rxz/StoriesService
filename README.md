@@ -5,8 +5,10 @@ The project is an Api for third-party integrations, such as stories of different
 - Authorisation
 - Create, view, edit, delete stories
 - Select the type of story to publish (image/video)
-- Editing content before publishing
+- Editing content before publishing, text positioning in stories
 - Create multiple stories at once
+- Session caching
+- Language localisation
   
 ## Installation
 
