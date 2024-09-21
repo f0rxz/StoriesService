@@ -2,7 +2,7 @@
 The project is an Api for third-party integrations, such as stories of different formats, both photo and video
 ## Features
 - Authentication
-- Authorisation
+- Authorization
 - Create, view, edit, delete stories
 - Select the type of story to publish (image/video)
 - Editing content before publishing, text positioning in stories
